@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(142, 228, 231);
+}
+.logo {
+    width: 250px;
+    height: 100px;
+    padding-left: 500px;
+}
+
+.firstpar {
+    
+text-align: center;
+font-size: 24px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: yellow;
+}
+.olClass{
+
+    font-size: 20px;
+    color: blueviolet;
+}
+.ulClass{
+
+    font-size: 20px;
+    color: rgb(163, 156, 170);
+}
